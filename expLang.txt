@@ -1,0 +1,26 @@
+LANGAGE Isil214
+
+DEC 
+#TAB
+#ARITHM
+int :: D,H,I,N, Tab[20];
+float :: X,Y,X;
+String :: P, S;
+int :: CONST F=5.6,G=2,G=2;
+
+FINDEC
+
+DEBUT
+
+
+ EXECUT 
+ X:=X+6*8/Y;
+ IF (I<2)
+
+ While(I<2)
+ Faire 
+    X:=X+2;
+ Fait
+
+
+FIN
